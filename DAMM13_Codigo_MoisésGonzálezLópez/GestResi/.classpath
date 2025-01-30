@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/GestResiLite.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/h2-1.4.200.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqlite-jdbc-3.41.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
